@@ -62,6 +62,3 @@ azure_env.sh
 
 # Ignore any zip files from lambda
 *.zip
-
-# Ignore any files that don't need to be committed as part of skeleton
-env/*
