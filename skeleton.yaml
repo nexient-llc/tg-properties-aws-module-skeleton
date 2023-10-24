@@ -1,0 +1,20 @@
+envs:
+  - dev:
+      regions:
+        - us-east-2:
+            instances:
+              - "000"
+              - "001"
+      git_tag: 0.1.0
+  - qa:
+      regions:
+        - us-east-2:
+            instances:
+              - "000"
+      git_tag: 0.1.1
+  - prod:
+      regions:
+        - us-east-2:
+            instances:
+              - "000"
+      git_tag: 0.1.2
