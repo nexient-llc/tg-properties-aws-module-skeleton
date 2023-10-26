@@ -1,6 +1,6 @@
 # tg-properties-aws-module-skeleton
 
-This repository contains bare minimum code necessary to generate the properties configuration(variables, and git tags) for deploying `s3-bucket` to aws cloud platform.
+This repository contains bare minimum code necessary to generate the properties configuration(variables, and git tags) for deploying any `terraform module` to aws cloud platform.
 
 This repository is intended to be used by developers wanting to write terragrunt configurations to deploy the terraform modules to `aws cloud platform`.
 
