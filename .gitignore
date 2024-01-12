@@ -25,6 +25,7 @@ components/
 # tfvars
 *.auto.tfvars
 terraform.tfvars
+!env/**/*.tfvars
 
 # Crash log files
 crash.log
